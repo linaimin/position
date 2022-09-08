@@ -23,7 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <m2e.apt.activation>jdt_apt</m2e.apt.activation>
         <h2.version>1.4.199</h2.version>
-        <postgresql.version>42.2.5</postgresql.version>
+        <postgresql.version>42.4.1</postgresql.version>
         <java.version>1.8</java.version>
         <swagger.version>2.8.0</swagger.version>
         <lombok.version>1.18.8</lombok.version>
